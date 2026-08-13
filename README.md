@@ -28,4 +28,5 @@ My Leetcode journey and python solutions.
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sleepyycompiler/leetcode-python-/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1470-shuffle-the-array](https://github.com/sleepyycompiler/leetcode-python-/tree/master/1470-shuffle-the-array) |
 <!---LeetCode Topics End-->
